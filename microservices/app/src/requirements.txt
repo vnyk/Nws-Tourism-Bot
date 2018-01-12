@@ -1,5 +1,22 @@
-flask
-requests
-gunicorn
-
-# add new packages one per each line
+certifi==2017.7.27.1
+chardet==3.0.4
+click==6.7
+Flask==0.12.2
+gnewsclient==1.0.2
+gunicorn==19.7.1
+idna==2.5
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+PyJWT==1.5.0
+pymessenger==0.0.7.0
+PySocks==1.6.7
+pytz==2017.2
+requests==2.18.2
+requests-toolbelt==0.8.0
+six==1.10.0
+twilio==6.5.0
+urllib3==1.22
+virtualenv==15.1.0
+Werkzeug==0.12.2
+wit==4.3.0
