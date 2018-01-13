@@ -47,6 +47,11 @@ def webhook():
 						response="Welcome to {}".format(str(value))
 						categories="{}".format(str(value))
 
+					if entity == 'food':
+						respo="If you are hungry, please have a look at this"
+						bot.send_text_message(sender_id, respo)
+						response="https://droolraftan.wordpress.com/tag/jaipur-food"
+
 					if entity=='developer':
 						elements=[]
 						element = {
