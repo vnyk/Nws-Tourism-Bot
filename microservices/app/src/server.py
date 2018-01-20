@@ -4,7 +4,7 @@ from pymessenger import Bot
 from utils import wit_response, get_news_elements
 
 app = Flask(__name__)
-accesstoken="EAAFtFYZBO3ZBwBAOhkocvvI5QiXiSquvuHjrVdvw9n0CgdQHkR5sHoX3V39GoMMYqIopY1RaXGV917aECavKFmUyXNnQUplW16n6MFgFsu7s8BgQu5qCvpLzEQXoZBvjs1wHHFv8EZCZC44XKN1spbjdT1TZAhnKeiVNLoLJSMVgZDZD"
+accesstoken="Page access token here"
 bot=Bot(accesstoken)
 
 

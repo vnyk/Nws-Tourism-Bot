@@ -1,7 +1,7 @@
 from wit import Wit
 from gnewsclient import gnewsclient
 
-witaccess_token="GFDAPYSJK5XBBUGOJYPHWDQI4LGJWSIQ"
+witaccess_token="Wit API access key here"
 
 client=Wit(access_token= witaccess_token)
 
